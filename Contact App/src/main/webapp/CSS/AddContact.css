@@ -1,0 +1,11 @@
+.border {
+	border: 1px solid;
+}
+
+.right {
+	text-align: right;
+}
+
+.left {
+	text-align: left;
+}
